@@ -3,7 +3,7 @@ from random import randint
 import glob
 import time
 import django
-
+import site
 import pyinputplus as pyip
 now = time.strftime("%H")
 

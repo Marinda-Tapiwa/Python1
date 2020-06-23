@@ -1,0 +1,7 @@
+'''
+ID = randint(2000000, 2999999)
+file = open("Python_Unused_Residual_Codes.py", "a")
+file.write(str(ID)+",\n")
+file.close()
+'''
+ID = 2085041ID = 2361913ID = 2849538ID = 2219271ID = 2475321ID = 2601883ID = 2742388ID = 2634592ID = 2642698ID = 2612662ID = 2987433ID = 2944208ID = 2060146ID = 2418961ID = 2913722ID = 2393096
